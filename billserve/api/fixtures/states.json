@@ -1,0 +1,482 @@
+[
+  {
+    "model": "api.state",
+    "pk": "1",
+    "fields": {
+      "abbreviation": "AL",
+      "name": "Alabama"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "2",
+    "fields": {
+      "abbreviation": "AK",
+      "name": "Alaska"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "3",
+    "fields": {
+      "abbreviation": "AZ",
+      "name": "Arizona"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "4",
+    "fields": {
+      "abbreviation": "AR",
+      "name": "Arkansas"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "5",
+    "fields": {
+      "abbreviation": "CA",
+      "name": "California"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "6",
+    "fields": {
+      "abbreviation": "CO",
+      "name": "Colorado"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "7",
+    "fields": {
+      "abbreviation": "CT",
+      "name": "Connecticut"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "8",
+    "fields": {
+      "abbreviation": "DE",
+      "name": "Delaware"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "9",
+    "fields": {
+      "abbreviation": "DC",
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "10",
+    "fields": {
+      "abbreviation": "FL",
+      "name": "Florida"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "11",
+    "fields": {
+      "abbreviation": "GA",
+      "name": "Georgia"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "12",
+    "fields": {
+      "abbreviation": "HI",
+      "name": "Hawaii"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "13",
+    "fields": {
+      "abbreviation": "ID",
+      "name": "Idaho"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "14",
+    "fields": {
+      "abbreviation": "IL",
+      "name": "Illinois"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "15",
+    "fields": {
+      "abbreviation": "IN",
+      "name": "Indiana"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "16",
+    "fields": {
+      "abbreviation": "IA",
+      "name": "Iowa"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "17",
+    "fields": {
+      "abbreviation": "KS",
+      "name": "Kansas"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "18",
+    "fields": {
+      "abbreviation": "KY",
+      "name": "Kentucky"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "19",
+    "fields": {
+      "abbreviation": "LA",
+      "name": "Louisiana"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "20",
+    "fields": {
+      "abbreviation": "ME",
+      "name": "Maine"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "21",
+    "fields": {
+      "abbreviation": "MD",
+      "name": "Maryland"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "22",
+    "fields": {
+      "abbreviation": "MA",
+      "name": "Massachusetts"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "23",
+    "fields": {
+      "abbreviation": "MI",
+      "name": "Michigan"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "24",
+    "fields": {
+      "abbreviation": "MN",
+      "name": "Minnesota"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "25",
+    "fields": {
+      "abbreviation": "MS",
+      "name": "Mississippi"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "26",
+    "fields": {
+      "abbreviation": "MO",
+      "name": "Missouri"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "27",
+    "fields": {
+      "abbreviation": "MT",
+      "name": "Montana"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "28",
+    "fields": {
+      "abbreviation": "NE",
+      "name": "Nebraska"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "29",
+    "fields": {
+      "abbreviation": "NV",
+      "name": "Nevada"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "30",
+    "fields": {
+      "abbreviation": "NH",
+      "name": "New Hampshire"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "31",
+    "fields": {
+      "abbreviation": "NJ",
+      "name": "New Jersey"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "32",
+    "fields": {
+      "abbreviation": "NM",
+      "name": "New Mexico"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "33",
+    "fields": {
+      "abbreviation": "NY",
+      "name": "New York"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "34",
+    "fields": {
+      "abbreviation": "NC",
+      "name": "North Carolina"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "35",
+    "fields": {
+      "abbreviation": "ND",
+      "name": "North Dakota"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "36",
+    "fields": {
+      "abbreviation": "OH",
+      "name": "Ohio"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "37",
+    "fields": {
+      "abbreviation": "OK",
+      "name": "Oklahoma"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "38",
+    "fields": {
+      "abbreviation": "OR",
+      "name": "Oregon"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "39",
+    "fields": {
+      "abbreviation": "PA",
+      "name": "Pennsylvania"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "40",
+    "fields": {
+      "abbreviation": "RI",
+      "name": "Rhode Island"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "41",
+    "fields": {
+      "abbreviation": "SC",
+      "name": "South Carolina"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "42",
+    "fields": {
+      "abbreviation": "SD",
+      "name": "South Dakota"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "43",
+    "fields": {
+      "abbreviation": "TN",
+      "name": "Tennessee"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "44",
+    "fields": {
+      "abbreviation": "TX",
+      "name": "Texas"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "45",
+    "fields": {
+      "abbreviation": "UT",
+      "name": "Utah"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "46",
+    "fields": {
+      "abbreviation": "VT",
+      "name": "Vermont"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "47",
+    "fields": {
+      "abbreviation": "VA",
+      "name": "Virginia"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "48",
+    "fields": {
+      "abbreviation": "WA",
+      "name": "Washington"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "49",
+    "fields": {
+      "abbreviation": "WV",
+      "name": "West Virginia"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "50",
+    "fields": {
+      "abbreviation": "WI",
+      "name": "Wisconsin"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "51",
+    "fields": {
+      "abbreviation": "WY",
+      "name": "Wyoming"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "52",
+    "fields": {
+      "abbreviation": "MP",
+      "name": "Northern Mariana Islands"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "53",
+    "fields": {
+      "abbreviation": "AS",
+      "name": "American Samoa"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "54",
+    "fields": {
+      "abbreviation": "GU",
+      "name": "Guam"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "55",
+    "fields": {
+      "abbreviation": "PR",
+      "name": "Puerto Rico"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "56",
+    "fields": {
+      "abbreviation": "VI",
+      "name": "U.S. Virgin Islands"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "57",
+    "fields": {
+      "abbreviation": "UM",
+      "name": "U.S. Minor Outlying Islands"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "58",
+    "fields": {
+      "abbreviation": "FM",
+      "name": "Micronesia"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "59",
+    "fields": {
+      "abbreviation": "MH",
+      "name": "Marshall Island"
+    }
+  },
+  {
+    "model": "api.state",
+    "pk": "60",
+    "fields": {
+      "abbreviation": "PW",
+      "name": "Palau"
+    }
+  }
+]

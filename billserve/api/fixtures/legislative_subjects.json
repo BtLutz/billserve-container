@@ -1,0 +1,16 @@
+[
+  {
+    "model": "api.legislativesubject",
+    "pk": 1,
+    "fields": {
+      "name": "Education programs funding"
+    }
+  },
+  {
+    "model": "api.legislativesubject",
+    "pk": 2,
+    "fields": {
+      "name": "Higher education"
+    }
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "model": "api.policyarea",
+    "pk": 1,
+    "fields": {
+      "name": "Education"
+    }
+  }
+]

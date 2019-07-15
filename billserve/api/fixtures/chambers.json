@@ -1,0 +1,18 @@
+[
+  {
+    "model": "api.chamber",
+    "pk": 1,
+    "fields": {
+      "name": "Senate",
+      "abbreviation": "S"
+    }
+  },
+  {
+    "model": "api.chamber",
+    "pk": 2,
+    "fields": {
+      "name": "House",
+      "abbreviation": "HR"
+    }
+  }
+]

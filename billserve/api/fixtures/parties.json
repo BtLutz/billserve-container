@@ -1,0 +1,26 @@
+[
+  {
+    "model": "api.party",
+    "pk": 1,
+    "fields": {
+      "name": "Independent",
+      "abbreviation": "I"
+    }
+  },
+  {
+    "model": "api.party",
+    "pk": 2,
+    "fields": {
+      "name": "Democratic",
+      "abbreviation": "D"
+    }
+  },
+  {
+    "model": "api.party",
+    "pk": 3,
+    "fields": {
+      "name": "Republican",
+      "abbreviation": "R"
+    }
+  }
+]
