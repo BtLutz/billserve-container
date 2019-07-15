@@ -14,7 +14,7 @@ class GovinfoClient:
         :param url: THe URL of the bill you'd like to create
         :return: The created bill
         """
-        from api.models import Bill
+        from billserve.api.models import Bill
         response = GovinfoClient.http.get(url)
         bill_data_raw = xmltodict.parse(response.data)
 
